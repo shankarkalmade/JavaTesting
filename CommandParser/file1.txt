@@ -1,0 +1,113 @@
+{
+  "keywords": [
+    {
+      "group": "nav",
+      "entity": "open",
+      "extra": ""
+    },
+    {
+      "group": "nav",
+      "entity": "show",
+      "extra": ""
+    },
+    {
+      "group": "nav",
+      "entity": "set",
+      "extra": ""
+    },
+    {
+      "group": "action",
+      "entity": "on",
+      "extra": ""
+    },
+    {
+      "group": "action",
+      "entity": "off",
+      "extra": ""
+    },
+    {
+      "group": "action",
+      "entity": "up",
+      "extra": ""
+    },
+    {
+      "group": "action",
+      "entity": "down",
+      "extra": ""
+    },
+    {
+      "group": "action",
+      "entity": "stop",
+      "extra": ""
+    },
+    {
+      "group": "media",
+      "entity": "play",
+      "extra": ""
+    },
+    {
+      "group": "media",
+      "entity": "pause",
+      "extra": ""
+    },
+    {
+      "group": "media",
+      "entity": "stop",
+      "extra": ""
+    },
+    {
+      "group": "media",
+      "entity": "resume",
+      "extra": ""
+    },
+    {
+      "group": "security",
+      "entity": "arm",
+      "extra": ""
+    },
+    {
+      "group": "security",
+      "entity": "disarm",
+      "extra": ""
+    },
+    {
+      "group": "security",
+      "entity": "reset",
+      "extra": ""
+    }
+  ],
+  "items": [
+    {
+      "group": "lighting",
+      "entity": "lighth1",
+      "extra": ""
+    },
+    {
+      "group": "lighting",
+      "entity": "light2",
+      "extra": ""
+    },
+    {
+      "group": "fan",
+      "entity": "main",
+      "extra": ""
+    },
+    {
+      "group": "curtain",
+      "entity": "lobby",
+      "extra": ""
+    }
+  ],
+  "groups": [
+    {
+      "group": "group",
+      "entity": "group1",
+      "extra": ""
+    },
+    {
+      "group": "group",
+      "entity": "group2",
+      "extra": ""
+    }
+  ]
+}
